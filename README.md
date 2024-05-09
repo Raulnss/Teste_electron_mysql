@@ -38,3 +38,6 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
+
+não se esqueça de usar o npm install mysql2
+
